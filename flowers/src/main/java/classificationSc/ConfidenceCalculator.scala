@@ -1,0 +1,5 @@
+package classificationSc
+
+class ConfidenceCalculator {
+
+}
