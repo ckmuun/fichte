@@ -1,3 +1,7 @@
+Gitlab Mirror is broken due to restrictions on file size differing between Gitlab and Github. 
+Find full code here: https://wwww.gitlab.com/ckmuun/fichte
+
+
 Welcome to FICHTE! 
 
 General note:
